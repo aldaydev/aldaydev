@@ -1,8 +1,38 @@
 ## Hi there 👋
 
-| Frontend | Backend |
-|----------|---------|
-| ![Frontend](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | (https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Backend](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+
+  <div>
+    <h3>Frontend</h3>
+    <p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+    </p>
+  </div>
+
+  <div>
+    <h3>Backend</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+    </p>
+  </div>
+
+  <div>
+    <h3>Organización</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    </p>
+  </div>
+
+</div>
 
 <!--
 **aldaydev/aldaydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
