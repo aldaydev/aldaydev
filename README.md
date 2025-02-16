@@ -2,7 +2,7 @@
 
 | Frontend | Backend |
 |----------|---------|
-| ![Frontend](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Frontend](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Backend](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| ![Frontend](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | (https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Backend](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
 
 <!--
 **aldaydev/aldaydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
