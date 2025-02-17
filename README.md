@@ -6,7 +6,7 @@
 ### Herramientas de gestión
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google_Meet-00897B?style=flat&logo=googlemeet&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white) ![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldaydev&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldaydev&langs_count=5&theme=radical)
 
 <!--
 **aldaydev/aldaydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
