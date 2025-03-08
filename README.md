@@ -13,11 +13,11 @@ PROYECTOS:
 
 - Portal de músicos -> Proyecto Full Stack en desarrollo (pídeme acceso)
 - CV Audiovisual 
-    Desplegado: (https://cvaudiovisual.alday.es)
-    Repositorio: (https://github.com/aldaydev/CV_AUDIOVISUAL)
+    * Desplegado: (https://cvaudiovisual.alday.es)
+    * Repositorio: (https://github.com/aldaydev/CV_AUDIOVISUAL)
 - Web Musical
-    Desplegado: (https://music.alday.es)
-    Repositorio: (https://github.com/aldaydev/pagina-personal.git)
+    * Desplegado: (https://music.alday.es)
+    * Repositorio: (https://github.com/aldaydev/pagina-personal.git)
 
 
 <!--
