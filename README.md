@@ -11,7 +11,9 @@ Me llamo Rafa Alday y soy desarrollador web junior. Te invito a seguir leyendo p
 
 PROYECTOS:
 
+- Portal de músicos -> Proyecto Full Stack en desarrollo (pídeme acceso)
 - CV Audiovisual (https://github.com/aldaydev/CV_AUDIOVISUAL)
+- Web Musical (https://github.com/aldaydev/pagina-personal.git)
 
 
 <!--
