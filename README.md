@@ -12,12 +12,15 @@ Me llamo Rafa Alday y soy desarrollador web junior. Te invito a seguir leyendo p
 PROYECTOS:
 
 - Portal de músicos -> Proyecto Full Stack en desarrollo (pídeme acceso)
+- Pokemon Game
+   * Desplegado: (https://pokegame.alday.es)
+   * Repositorio: (https://github.com/aldaydev/pokegame)
 - CV Audiovisual 
-    * Desplegado: (https://cvaudiovisual.alday.es)
-    * Repositorio: (https://github.com/aldaydev/CV_AUDIOVISUAL)
+   * Desplegado: (https://cvaudiovisual.alday.es)
+   * Repositorio: (https://github.com/aldaydev/CV_AUDIOVISUAL)
 - Web Musical
-    * Desplegado: (https://music.alday.es)
-    * Repositorio: (https://github.com/aldaydev/pagina-personal.git)
+   * Desplegado: (https://music.alday.es)
+   * Repositorio: (https://github.com/aldaydev/pagina-personal.git)
 
 
 <!--
