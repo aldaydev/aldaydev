@@ -19,7 +19,7 @@ PROYECTOS:
    * Repositorio back (https://github.com/aldaydev/musikos_server)
    * Repositorio front (https://github.com/aldaydev/musikos_client)
 - Pokemon Game
-   * Desplegado: (https://pokegame.alday.es)
+   * Desplegado: (https://pokegame.alday.dev)
    * Video Presentación: (https://youtu.be/MxDscYjcJKU)
    * Repositorio: (https://github.com/aldaydev/pokegame)
 - CV Audiovisual 
