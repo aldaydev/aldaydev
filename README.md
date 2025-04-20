@@ -26,8 +26,8 @@ PROYECTOS:
    * Desplegado: (https://cvaudiovisual.alday.es)
    * Repositorio: (https://github.com/aldaydev/CV_AUDIOVISUAL)
 - Web Musical
-   * Desplegado: (https://music.alday.es)
-   * Repositorio: (https://github.com/aldaydev/pagina-personal.git)
+   * Desplegado: (https://alday.es)
+   * Repositorio: (https://github.com/aldaydev/alday_es.git)
 
 
 <!--
