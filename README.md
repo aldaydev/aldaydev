@@ -23,7 +23,7 @@ PROYECTOS:
    * Video Presentación: (https://youtu.be/MxDscYjcJKU)
    * Repositorio: (https://github.com/aldaydev/pokegame)
 - CV Audiovisual 
-   * Desplegado: (https://cvaudiovisual.alday.es)
+   * Desplegado: (https://cvaudiovisual.alday.dev)
    * Repositorio: (https://github.com/aldaydev/CV_AUDIOVISUAL)
 - Web Musical
    * Desplegado: (https://alday.es)
