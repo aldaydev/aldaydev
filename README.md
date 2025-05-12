@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/aldaydev/aldaydev/blob/main/github-bg.png" alt="Banner AldayDev - Rafael Alday" width="100%" />
+</p>
+
 Me llamo Rafa Alday y soy desarrollador web junior. Te invito a seguir leyendo para saber un poco más acerca de mis habilidades y proyectos destacados.
 
 ### Desarrollo Web
