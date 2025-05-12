@@ -26,19 +26,34 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 
-PROYECTOS:
+## PROYECTOS:
 
-- Portal de músicos
+### The Chords API
+   * Desplegado: (https://chords.alday.dev)
+   * Repositorio: (https://github.com/aldaydev/chords_api)
+
+### Portal de músicos
    * Repositorio back (https://github.com/aldaydev/musikos_server)
    * Repositorio front (https://github.com/aldaydev/musikos_client)
-- Pokemon Game
+  
+### Pokemon Game
    * Desplegado: (https://pokegame.alday.dev)
    * Video Presentación: (https://youtu.be/MxDscYjcJKU)
    * Repositorio: (https://github.com/aldaydev/pokegame)
-- CV Audiovisual 
+
+### CV Audiovisual 
    * Desplegado: (https://cvaudiovisual.alday.dev)
    * Repositorio: (https://github.com/aldaydev/CV_AUDIOVISUAL)
-- Web Musical
+
+### Dev Agency CSS Layout 
+   * Desplegado: (https://devagency.alday.dev)
+   * Repositorio: (https://github.com/aldaydev/dev-agency)
+
+### Gamer News Portal CSS Layout 
+   * Desplegado: (https://gamer.alday.dev)
+   * Repositorio: (https://github.com/aldaydev/gamer)
+
+### Web Musical
    * Desplegado: (https://alday.es)
    * Repositorio: (https://github.com/aldaydev/alday_es.git)
 
