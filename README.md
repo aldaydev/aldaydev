@@ -15,12 +15,11 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 
 ### Desarrollo Web BACK-END
 
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) ![Bcrypt](https://img.shields.io/badge/Bcrypt-0061F2?style=flat&logo=npm&logoColor=white) ![Winston](https://img.shields.io/badge/Winston-0061F2?style=flat&logo=npm&logoColor=white) ![Firestore](https://img.shields.io/badge/Firebase-FFCB2F?style=flat&logo=firebase&logoColor=black) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) ![Bcrypt](https://img.shields.io/badge/Bcrypt-0061F2?style=flat&logo=npm&logoColor=white) ![Winston](https://img.shields.io/badge/Winston-0061F2?style=flat&logo=npm&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ### Bases de datos
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCB2F?style=flat&logo=firebase&logoColor=black)
-
 
 ### Testing
 
