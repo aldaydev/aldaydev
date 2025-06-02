@@ -36,7 +36,7 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
    * Vídeo Presentación: (https://youtu.be/AeSVz7Ewje8)
    * Repositorio: (https://github.com/aldaydev/chords_api)
 
-### Portal de músicos
+### Portal de músicos (Versión Beta)
    * Repositorio back (https://github.com/aldaydev/musikos_server)
    * Repositorio front (https://github.com/aldaydev/musikos_client)
   
