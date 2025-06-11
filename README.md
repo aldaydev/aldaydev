@@ -61,7 +61,6 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
    * Desplegado: (https://alday.es)
    * Repositorio: (https://github.com/aldaydev/alday_es.git)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aldaydev&show_icons=true&theme=radical)
 
 
 <!--
