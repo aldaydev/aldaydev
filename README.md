@@ -61,7 +61,8 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
    * Desplegado: (https://alday.es)
    * Repositorio: (https://github.com/aldaydev/alday_es.git)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aldaydev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldaydev&layout=compact&theme=radical)
+
 
 <!--
 **aldaydev/aldaydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
