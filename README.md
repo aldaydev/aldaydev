@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/aldaydev/aldaydev/blob/main/github-bg.png" alt="Banner AldayDev - Rafael Alday" width="100%" />
+  <a href="https://alday.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/aldaydev/aldaydev/blob/main/github-bg.png" alt="Banner AldayDev - Rafael Alday" width="100%" />
+  </a>
 </p>
 
 Me llamo Rafa Alday y soy desarrollador web, especializado en React, Express, Node, MongoDB y MySQL. Te invito a seguir leyendo para saber un poco más acerca de mis habilidades y proyectos destacados.
