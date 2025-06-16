@@ -41,6 +41,76 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 <br>
 <h2 align="center"> PROYECTOS </h2>
 
+### The Chords API  
+[![The Chords API](project_images/aldayes_capture_400px.webp)](https://chords.alday.dev)
+
+[![Desplegado](https://img.shields.io/badge/Deploy-🌐-blue)](https://chords.alday.dev)  
+[![Repositorio](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/aldaydev/chords_api)  
+[![Vídeo](https://img.shields.io/badge/Video-▶️-red)](https://youtu.be/AeSVz7Ewje8)  
+
+---
+
+### Portal de músicos (Versión Beta)  
+[![Musikos Portal](ruta-a-tu-imagen2.png)](#)  
+
+- [![Back Repo](https://img.shields.io/badge/Back-End-GitHub-darkgreen)](https://github.com/aldaydev/musikos_server)  
+- [![Front Repo](https://img.shields.io/badge/Front-End-GitHub-darkblue)](https://github.com/aldaydev/musikos_client)  
+
+---
+
+### Pokemon Game  
+[![Pokemon Game](ruta-a-tu-imagen3.png)](https://pokegame.alday.dev)
+
+[![Desplegado](https://img.shields.io/badge/Deploy-🌐-blue)](https://pokegame.alday.dev)  
+[![Repositorio](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/aldaydev/pokegame)  
+[![Vídeo](https://img.shields.io/badge/Video-▶️-red)](https://youtu.be/MxDscYjcJKU)  
+
+---
+
+### CV Audiovisual  
+[![CV Audiovisual](ruta-a-tu-imagen4.png)](https://cvaudiovisual.alday.dev)
+
+[![Desplegado](https://img.shields.io/badge/Deploy-🌐-blue)](https://cvaudiovisual.alday.dev)  
+[![Repositorio](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/aldaydev/CV_AUDIOVISUAL)  
+
+---
+
+### Dev Agency CSS Layout  
+[![Dev Agency](ruta-a-tu-imagen5.png)](https://devagency.alday.dev)
+
+[![Desplegado](https://img.shields.io/badge/Deploy-🌐-blue)](https://devagency.alday.dev)  
+[![Repositorio](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/aldaydev/dev-agency)  
+
+---
+
+### Gamer News Portal CSS Layout  
+[![Gamer News Portal](ruta-a-tu-imagen6.png)](https://gamer.alday.dev)
+
+[![Desplegado](https://img.shields.io/badge/Deploy-🌐-blue)](https://gamer.alday.dev)  
+[![Repositorio](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/aldaydev/gamer)  
+
+---
+
+### Web Musical  
+[![Web Musical](ruta-a-tu-imagen7.png)](https://alday.es)
+
+[![Desplegado](https://img.shields.io/badge/Deploy-🌐-blue)](https://alday.es)  
+[![Repositorio](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/aldaydev/alday_es.git)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### The Chords API
    * Desplegado: (https://chords.alday.dev)
    * Vídeo Presentación: (https://youtu.be/AeSVz7Ewje8)
