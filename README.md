@@ -45,7 +45,7 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 
 <img src="/project_images/chordsapi_capture_400px.webp" alt="Chords API" />
 
-[![GitHub Backend](https://img.shields.io/badge/-Repositorio_Back-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/chords_api) [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://chords.alday.dev) [![Video](https://img.shields.io/badge/-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtu.be/tuvideo](https://youtu.be/AeSVz7Ewje8)) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/chords)
+[![GitHub Backend](https://img.shields.io/badge/-Repositorio_Back-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/chords_api) [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://chords.alday.dev) [![Video](https://img.shields.io/badge/-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/AeSVz7Ewje8) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/chords)
 
 ### Musikos App (Versión Beta)
 
