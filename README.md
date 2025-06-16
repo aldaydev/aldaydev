@@ -42,7 +42,7 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 <h2 align="center"> PROYECTOS </h2>
 
 <div width="100%">
-  <img src='/project_images/chordsapi_capture_400px.webp' align='center/>
+  <img src='/project_images/chordsapi_capture_400px.webp' align='center'/>
 </div>
 
 [![The Chords API](project_images/chordsapi_capture_400px.webp)](https://alday.dev/chords)
