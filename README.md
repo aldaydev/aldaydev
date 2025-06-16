@@ -43,7 +43,7 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 
 | Proyecto | Descripción |
 |------------|-------------|
-| [![The Chords API](project_images/chordsapi_capture_400px.webp)](https://alday.dev/chords) | [![GitHub Backend](https://img.shields.io/badge/GitHub-Backend-green?logo=github&logoColor=white)](https://github.com/aldaydev/chords_api) |
+| [![The Chords API](project_images/chordsapi_capture_400px.webp)](https://alday.dev/chords) | [![GitHub Backend](https://img.shields.io/badge/-GitHub_Backend-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario/repositorio_back) |
 
 
 ---
