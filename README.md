@@ -6,9 +6,9 @@ Me llamo Rafa Alday y soy desarrollador web, especializado en React, Express, No
 
 Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyectos y filtrarlos por tecnologías => [ALDAYDEV PORTFOLIO](https://alday.dev)
 
-<br>
+
 <h2 align="center">TECNOLOGÍAS</h2>
-<br>
+
 
 ### 🧑‍💻 LENGUAJES  
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
