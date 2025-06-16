@@ -43,7 +43,7 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 
 | Proyecto | Descripción |
 |---------|-------------|
-| [![The Chords API](project_images/chordsapi_capture_400px.webp)](https://alday.dev/chords) | ### The Chords API<br>API Rest pública y gratuita. Pensada para desarrolladores que están empezando a hacer sus primeras peticiones (fetch, axios) y que, además, les gusta la música. Totalmente desplegada, vistas servidas desde el backend, documentación en inglés con Swagger y JSDoc. |
+| [![The Chords API](project_images/chordsapi_capture_400px.webp)](https://alday.dev/chords) | ### The Chords API <br> API Rest pública y gratuita. Pensada para desarrolladores que están empezando a hacer sus primeras peticiones (fetch, axios) y que, además, les gusta la música. Totalmente desplegada, vistas servidas desde el backend, documentación en inglés con Swagger y JSDoc. |
 
 
 ---
