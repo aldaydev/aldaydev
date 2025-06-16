@@ -42,11 +42,7 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 <h2 align="center"> PROYECTOS </h2>
 
 ### The Chords API  
-[![The Chords API](project_images/aldayes_capture_400px.webp)](https://chords.alday.dev)
-
-[![Desplegado](https://img.shields.io/badge/Deploy-🌐-blue)](https://chords.alday.dev)  
-[![Repositorio](https://img.shields.io/badge/Repo-GitHub-black)](https://github.com/aldaydev/chords_api)  
-[![Vídeo](https://img.shields.io/badge/Video-▶️-red)](https://youtu.be/AeSVz7Ewje8)  
+[![The Chords API](project_images/chordsapi_capture_400px.webp)](https://chords.alday.dev/chordsapi)
 
 ---
 
