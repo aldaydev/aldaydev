@@ -48,11 +48,13 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 </p>
 
 <p align="center">
-  [![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario/repositorio_front)
-  [![GitHub Backend](https://img.shields.io/badge/-Repositorio_Back-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario/repositorio_back) 
-  [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://tuproyecto.desplegado)
-  [![Video](https://img.shields.io/badge/-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/tuvideo)
-  [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev)
+
+[![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario/repositorio_front) 
+[![GitHub Backend](https://img.shields.io/badge/-Repositorio_Back-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario/repositorio_back)  
+[![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://tuproyecto.desplegado)  
+[![Video](https://img.shields.io/badge/-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/tuvideo)  
+[![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev)
+
 </p>
 
 
