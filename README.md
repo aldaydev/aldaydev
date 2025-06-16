@@ -41,7 +41,7 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 <br>
 <h2 align="center"> PROYECTOS </h2>
 
-### Chords API
+## Chords API
 
 <img src="/project_images/chordsapi_capture_400px.webp" alt="Chords API" />
 
