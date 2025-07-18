@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Me llamo Rafa Alday y soy desarrollador web, especializado en React, Express, Node, MongoDB y MySQL. Te invito a seguir leyendo para saber un poco más acerca de mis habilidades y proyectos destacados.
+Me llamo Rafa Alday y soy desarrollador web, especializado en React (Vite y Next), Express, Node, MongoDB y MySQL. Te invito a seguir leyendo para saber un poco más acerca de mis habilidades y proyectos destacados.
 
 Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyectos y filtrarlos por tecnologías => [ALDAYDEV PORTFOLIO](https://alday.dev)
 
