@@ -68,12 +68,6 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 
 otros proyectos
 
-  
-### Pokemon Game
-   * Desplegado: (https://pokegame.alday.dev)
-   * Video Presentación: (https://youtu.be/MxDscYjcJKU)
-   * Repositorio: (https://github.com/aldaydev/pokegame)
-
 ### CV Audiovisual 
    * Desplegado: (https://cvaudiovisual.alday.dev)
    * Repositorio: (https://github.com/aldaydev/CV_AUDIOVISUAL)
