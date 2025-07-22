@@ -59,6 +59,11 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 
 [![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/musikos_client) [![GitHub Backend](https://img.shields.io/badge/-Repositorio_Back-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/musikos_server) [![Video](https://img.shields.io/badge/-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/hBbSiVGH7nQ) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/musikos)
 
+### Pokemon Game
+
+<img src="/project_images/pokegame_capture_400px.webp" alt="Chords API" />
+
+[![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/pokegame) [![Video](https://img.shields.io/badge/-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/MxDscYjcJKU) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/pokegame)
 
 
 otros proyectos
