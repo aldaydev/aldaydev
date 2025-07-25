@@ -41,6 +41,14 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 <br>
 <h2 align="center"> PROYECTOS </h2>
 
+### CuadrApp
+
+<a href="https://cuadrapp.alday.dev" target="_blank" rel="noreferrer noopener">
+  <img src="/project_images/cuadrapp_capture_400px.webp" alt="Chords API" />
+</a>
+
+[![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/cuadrapp_client) [![GitHub Backend](https://img.shields.io/badge/-Repositorio_Back-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/cuadrapp_server) [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://cuadrapp.alday.dev) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/cuadrapp)
+
 ### Mlink App
 
 <a href="https://mlink.alday.dev" target="_blank" rel="noreferrer noopener">
