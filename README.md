@@ -43,7 +43,9 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 
 ### Mlink App
 
-<img src="/project_images/mlink_capture_400px.webp" alt="Chords API" />
+<a href="https://mlink.alday.dev" target="_blank" rel="noreferrer noopener">
+  <img src="/project_images/mlink_capture_400px.webp" alt="Chords API" />
+<a/>
 
 [![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/mlink_client) [![GitHub Backend](https://img.shields.io/badge/-Repositorio_Back-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/mlink_server) [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://mlink.alday.dev) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/mlink)
 
