@@ -59,7 +59,9 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 
 ### Chords API
 
-<img src="/project_images/chordsapi_capture_400px.webp" alt="Chords API" />
+<a href="https://chords.alday.dev" target="_blank" rel="noreferrer noopener">
+  <img src="/project_images/chordsapi_capture_400px.webp" alt="Chords API" />
+</a>
 
 [![GitHub Backend](https://img.shields.io/badge/-Repositorio_Back-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/chords_api) [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://chords.alday.dev) [![Video](https://img.shields.io/badge/-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/AeSVz7Ewje8) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/chords)
 
@@ -71,16 +73,22 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 
 ### Pokemon Game
 
-<img src="/project_images/pokegame_capture_400px.webp" alt="Chords API" />
+<a href="https://pokegame.alday.dev" target="_blank" rel="noreferrer noopener">
+  <img src="/project_images/pokegame_capture_400px.webp" alt="Pokemon Game by AldayDev" />
+</a>
 
 [![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/pokegame) [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://pokegame.alday.dev) [![Video](https://img.shields.io/badge/-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/MxDscYjcJKU) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/pokemon-game)
 
+### CV Audiovisual
+
+<a href="https://cvaudiovisual.alday.dev" target="_blank" rel="noreferrer noopener">
+  <img src="/project_images/cvaudiovisual_capture_400px.webp" alt="Chords API" />
+</a>
+
+[![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/CV_AUDIOVISUAL) [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://cvaudiovisual.alday.dev) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/cv-audiovisual)
+
 
 otros proyectos
-
-### CV Audiovisual 
-   * Desplegado: (https://cvaudiovisual.alday.dev)
-   * Repositorio: (https://github.com/aldaydev/CV_AUDIOVISUAL)
 
 ### Dev Agency CSS Layout 
    * Desplegado: (https://devagency.alday.dev)
