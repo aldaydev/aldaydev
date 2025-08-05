@@ -57,6 +57,14 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 
 [![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/mlink_client) [![GitHub Backend](https://img.shields.io/badge/-Repositorio_Back-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/mlink_server) [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://mlink.alday.dev) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/mlink)
 
+### Alday.es (Mi web musical)
+
+<a href="https://alday.es" target="_blank" rel="noreferrer noopener">
+  <img src="/project_images/aldayes_v2_capture_400px.webp" alt="Captura de Alday.es" />
+</a>
+
+[![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/alday_es-v2) [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://alday.es) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/alday-es-v2)
+
 ### Chords API
 
 <a href="https://chords.alday.dev" target="_blank" rel="noreferrer noopener">
