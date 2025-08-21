@@ -41,10 +41,18 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 <br>
 <h2 align="center"> PROYECTOS </h2>
 
+### FilmFlix
+
+<a href="https://filmflix.alday.dev" target="_blank" rel="noreferrer noopener">
+  <img src="/project_images/filmflix_capture_400px.webp" alt="FilmFlix Capture" />
+</a>
+
+[![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/filmflix) [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://filmflix.alday.dev) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/filmflix)
+
 ### CuadrApp
 
 <a href="https://cuadrapp.alday.dev" target="_blank" rel="noreferrer noopener">
-  <img src="/project_images/cuadrapp_capture_400px.webp" alt="Chords API" />
+  <img src="/project_images/cuadrapp_capture_400px.webp" alt="Cuadrapp capture" />
 </a>
 
 [![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/cuadrapp_client) [![GitHub Backend](https://img.shields.io/badge/-Repositorio_Back-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/cuadrapp_server) [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://cuadrapp.alday.dev) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/cuadrapp)
@@ -52,7 +60,7 @@ Antes de nada, te invito a ver mi portfolio, donde puedes ver todos mis proyecto
 ### Mlink App
 
 <a href="https://mlink.alday.dev" target="_blank" rel="noreferrer noopener">
-  <img src="/project_images/mlink_capture_400px.webp" alt="Chords API" />
+  <img src="/project_images/mlink_capture_400px.webp" alt="MLink capture" />
 </a>
 
 [![GitHub Frontend](https://img.shields.io/badge/-Repositorio_Front-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/mlink_client) [![GitHub Backend](https://img.shields.io/badge/-Repositorio_Back-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldaydev/mlink_server) [![Desplegado](https://img.shields.io/badge/-Desplegado-ff6f00?style=for-the-badge&logo=rocketlauncher&logoColor=white)](https://mlink.alday.dev) [![Más info](https://img.shields.io/badge/-Más_info_en_aldaydev-0052cc?style=for-the-badge&logo=worldwide-web&logoColor=white)](https://alday.dev/mlink)
